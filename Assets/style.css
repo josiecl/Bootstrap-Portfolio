@@ -1,0 +1,23 @@
+.aboutMe {
+    border: 1px solid gray;
+    margin-top: 7px;
+}
+
+.thumbnailPic {
+    margin-top: 5px;
+
+}
+
+.titleWord {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Lora', serif;
+
+}
+
+.resumeBtn {
+    text-align: center;
+}
