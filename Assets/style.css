@@ -1,11 +1,13 @@
 .aboutMe {
     border: 1px solid gray;
     margin-top: 7px;
+    background-color: white;
+    border-radius: 3px 3px;
 }
+
 
 .thumbnailPic {
     margin-top: 5px;
-
 }
 
 .titleWord {
@@ -18,6 +20,28 @@ p {
 
 }
 
-.resumeBtn {
+body {
+    height: auto;
+    background-image: url("./Images/Vinewall.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 70px;
+}
+
+.inputField {
+    border: 1px solid gray;
+    border-radius: 4px 4px;
+    background-color: white;
+    margin: 8px;
+}
+
+.submitBtn {
+    margin-bottom: 4px;
+}
+
+.emailHead {
+
     text-align: center;
 }
