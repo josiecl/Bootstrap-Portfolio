@@ -48,13 +48,14 @@ body {
     text-align: center;
 }
 
-.firstWeb {
+.webInfo {
     text-align: center;
     border: 1px solid gray;
     background-color: white;
     box-shadow: 0 40px 60px 0 rgba(15, 15, 15, 0.4);
     margin-top: 10px;
     margin-bottom: 5px;
+    border-radius: 4px 4px;
 }
 
 .webImg {
@@ -63,10 +64,11 @@ body {
 
 .title {
     text-align: center;
-    background-color: white;
-    border: 1px solid gray;
+    background-color: rgb(60, 205, 125, .8);
+    border: 1px solid black;
     margin-top: 5px;
     box-shadow: 0 20px 30px 0 rgba(15, 15, 15, 0.4);
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
+    border-radius: 4px 4px;
 }
