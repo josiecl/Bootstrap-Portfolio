@@ -21,4 +21,4 @@ With the updates, I feel it has a very nice look to it. I like its design much m
 ![Screenshot of portfolio page, with screenshots of webpages I've worked on and information about said sites](https://user-images.githubusercontent.com/74507818/107844298-cce54980-6d97-11eb-8e8a-641680c65dc1.png)
 
 # Link to deployed URL
-[!Deployed site](https://josiecl.github.io/Bootstrap-Portfolio/index.html)
+[Deployed site](https://josiecl.github.io/Bootstrap-Portfolio/index.html)
