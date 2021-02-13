@@ -3,11 +3,13 @@
     margin-top: 7px;
     background-color: white;
     border-radius: 3px 3px;
+    box-shadow: 0 20px 40px 0 rgba(15, 15, 15, 0.4);
 }
 
 
 .thumbnailPic {
     margin-top: 5px;
+    box-shadow: 0 20px 30px 0 rgba(15, 15, 15, 0.4);
 }
 
 .titleWord {
@@ -32,9 +34,10 @@ body {
 
 .inputField {
     border: 1px solid gray;
-    border-radius: 4px 4px;
+    border-radius: 8px 8px;
     background-color: white;
     margin: 8px;
+    box-shadow: 0 20px 40px 0 rgba(15, 15, 15, 0.6);
 }
 
 .submitBtn {
@@ -42,6 +45,28 @@ body {
 }
 
 .emailHead {
-
     text-align: center;
+}
+
+.firstWeb {
+    text-align: center;
+    border: 1px solid gray;
+    background-color: white;
+    box-shadow: 0 40px 60px 0 rgba(15, 15, 15, 0.4);
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.webImg {
+    border: 2px solid gray;
+}
+
+.title {
+    text-align: center;
+    background-color: white;
+    border: 1px solid gray;
+    margin-top: 5px;
+    box-shadow: 0 20px 30px 0 rgba(15, 15, 15, 0.4);
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
 }
