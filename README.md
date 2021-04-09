@@ -1,5 +1,5 @@
 # Title
-Bootstrap Portfolio
+My Portfolio
 
 # Why it was made
 I needed to make a site that gave information about me, showed some images that represented me, and also had a contact form (even if that doesn't work yet). It also needed to use Bootstrap and be responsive. I followed these guidelines, and have made a site that is responsive, complete with working links, information, images, and a nice layout. It works as it should and I'm very proud of the end result.
